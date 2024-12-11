@@ -1,0 +1,37 @@
+[
+    {
+        "english": "Sunday",
+        "kanji": "日曜日",
+        "hiragana": ["にち", "よう", "び"]
+    },
+    {
+        "english": "Monday",
+        "kanji": "月曜日",
+        "hiragana": ["げつ", "よう", "び"]
+    },
+    {
+        "english": "Tuesday",
+        "kanji": "火曜日",
+        "hiragana": ["か", "よう", "び"]
+    },
+    {
+        "english": "Wednesday",
+        "kanji": "水曜日",
+        "hiragana": ["すい", "よう", "び"]
+    },
+    {
+        "english": "Thursday",
+        "kanji": "木曜日",
+        "hiragana": ["もく", "よう", "び"]
+    },
+    {
+        "english": "Friday",
+        "kanji": "金曜日",
+        "hiragana": ["きん", "よう", "び"]
+    },
+    {
+        "english": "Saturday",
+        "kanji": "土曜日",
+        "hiragana": ["ど", "よう", "び"]
+    }
+]
