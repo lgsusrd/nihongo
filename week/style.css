@@ -47,6 +47,8 @@ rt {
 }
 
 .play-audio {
+    height: 100px;
+    width: 200px;
     bottom: 1px;
 }
 
