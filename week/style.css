@@ -8,7 +8,7 @@ body {
 }
 
 ruby {
-    font-size: 300px;
+    font-size: 20vw;
     color: var(--text);
     position: relative;
     text-align: center;
@@ -17,13 +17,13 @@ ruby {
 rt {
     font-size: 0.2em;
     color: var(--subtext0);
-    margin-bottom: -50px;
+    margin-bottom: -30px;
     user-select: none;
 }
 
 .english-text {
     text-align: center;
-    font-size: 50px;
+    font-size: 4vw;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
         Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
         sans-serif;
@@ -31,7 +31,6 @@ rt {
 }
 
 .previous-option, .next-option, .play-audio {
-    background-color: var(--base);
     height: 200px;
     width: 50px;
     cursor: pointer;
@@ -50,6 +49,16 @@ rt {
     height: 100px;
     width: 200px;
     bottom: 1px;
+}
+
+@media only screen and (max-width: 700px) {
+    ruby {
+        font-size: 33vw;
+    }
+
+    .english-text{
+        font-size: 8vw;
+    }
 }
 
 :root {
