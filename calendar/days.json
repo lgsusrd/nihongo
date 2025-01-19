@@ -1,0 +1,158 @@
+{
+  "days": {
+    "1": {
+      "kanji": ["一", "日"],
+      "numerical_kanji": "1日",
+      "pronunciation": ["つい", "たち"]
+    },
+    "2": {
+      "kanji": ["二", "日"],
+      "numerical_kanji": "2日",
+      "pronunciation": ["ふつ", "か"]
+    },
+    "3": {
+      "kanji": ["三", "日"],
+      "numerical_kanji": "3日",
+      "pronunciation": ["みっ", "か"]
+    },
+    "4": {
+      "kanji": ["四", "日"],
+      "numerical_kanji": "4日",
+      "pronunciation": ["よっ", "か"]
+    },
+    "5": {
+      "kanji": ["五", "日"],
+      "numerical_kanji": "5日",
+      "pronunciation": ["いつ", "か"]
+    },
+    "6": {
+      "kanji": ["六", "日"],
+      "numerical_kanji": "6日",
+      "pronunciation": ["むい", "か"]
+    },
+    "7": {
+      "kanji": ["七", "日"],
+      "numerical_kanji": "7日",
+      "pronunciation": ["なの", "か"]
+    },
+    "8": {
+      "kanji": ["八", "日"],
+      "numerical_kanji": "8日",
+      "pronunciation": ["よう", "か"]
+    },
+    "9": {
+      "kanji": ["九", "日"],
+      "numerical_kanji": "9日",
+      "pronunciation": ["ここ", "のか"]
+    },
+    "10": {
+      "kanji": ["十", "日"],
+      "numerical_kanji": "10日",
+      "pronunciation": ["とお", "か"]
+    },
+    "11": {
+      "kanji": ["十", "一", "日"],
+      "numerical_kanji": "11日",
+      "pronunciation": ["じゅう", "いち", "にち"]
+    },
+    "12": {
+      "kanji": ["十", "二", "日"],
+      "numerical_kanji": "12日",
+      "pronunciation": ["じゅう", "に", "にち"]
+    },
+    "13": {
+      "kanji": ["十", "三", "日"],
+      "numerical_kanji": "13日",
+      "pronunciation": ["じゅう", "さん", "にち"]
+    },
+    "14": {
+      "kanji": ["十", "四", "日"],
+      "numerical_kanji": "14日",
+      "pronunciation": ["じゅう", "よっ", "か"]
+    },
+    "15": {
+      "numerical_kanji": "15日",
+      "pronunciation": ["じゅう", "ご", "にち"]
+    },
+    "16": {
+      "kanji": ["十", "六", "日"],
+      "numerical_kanji": "16日",
+      "pronunciation": ["じゅう", "ろく", "にち"]
+    },
+    "17": {
+      "kanji": ["十", "七", "日"],
+      "numerical_kanji": "17日",
+      "pronunciation": ["じゅう", "しち", "にち"]
+    },
+    "18": {
+      "kanji": ["十", "八", "日"],
+      "numerical_kanji": "18日",
+      "pronunciation": ["じゅう", "はち", "にち"]
+    },
+    "19": {
+      "kanji": ["十", "九", "日"],
+      "numerical_kanji": "19日",
+      "pronunciation": ["じゅう", "く", "にち"]
+    },
+    "20": {
+      "kanji": ["二", "十", "日"],
+      "numerical_kanji": "20日",
+      "pronunciation": ["はつ", "か"]
+    },
+    "21": {
+      "kanji": ["二", "十", "一", "日"],
+      "numerical_kanji": "21日",
+      "pronunciation": ["に", "じゅう", "いち", "にち"]
+    },
+    "22": {
+      "kanji": ["二", "十", "二", "日"],
+      "numerical_kanji": "22日",
+      "pronunciation": ["に", "じゅう", "に", "にち"]
+    },
+    "23": {
+      "kanji": ["二", "十", "三", "日"],
+      "numerical_kanji": "23日",
+      "pronunciation": ["に", "じゅう", "さん", "にち"]
+    },
+    "24": {
+      "kanji": ["二", "十", "四", "日"],
+      "numerical_kanji": "24日",
+      "pronunciation": ["に", "じゅう", "よっ", "か"]
+    },
+    "25": {
+      "kanji": ["二", "十", "五", "日"],
+      "numerical_kanji": "25日",
+      "pronunciation": ["に", "じゅう", "ご", "にち"]
+    },
+    "26": {
+      "kanji": ["二", "十", "六", "日"],
+      "numerical_kanji": "26日",
+      "pronunciation": ["に", "じゅう", "ろく", "にち"]
+    },
+    "27": {
+      "kanji": ["二", "十", "七", "日"],
+      "numerical_kanji": "27日",
+      "pronunciation": ["に", "じゅう", "しち", "にち"]
+    },
+    "28": {
+      "kanji": ["二", "十", "八", "日"],
+      "numerical_kanji": "28日",
+      "pronunciation": ["に", "じゅう", "はち", "にち"]
+    },
+    "29": {
+      "kanji": ["二", "十", "九", "日"],
+      "numerical_kanji": "29日",
+      "pronunciation": ["に", "じゅう", "く", "にち"]
+    },
+    "30": {
+      "kanji": ["三", "十", "日"],
+      "numerical_kanji": "30日",
+      "pronunciation": ["さん", "じゅう", "にち"]
+    },
+    "31": {
+      "kanji": ["三", "十", "一", "日"],
+      "numerical_kanji": "31日",
+      "pronunciation": ["さん", "じゅう", "いち", "にち"]
+    }
+  }
+}

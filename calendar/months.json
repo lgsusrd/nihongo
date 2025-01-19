@@ -1,0 +1,76 @@
+{
+  "months": {
+    "1": {
+      "kanji": ["一", "月"],
+      "numerical_kanji": "1月",
+      "pronunciation": ["いち", "がつ"],
+      "english": "January"
+    },
+    "2": {
+      "kanji": ["二", "月"],
+      "numerical_kanji": "2月",
+      "pronunciation": ["に", "がつ"],
+      "english": "February"
+    },
+    "3": {
+      "kanji": ["三", "月"],
+      "numerical_kanji": "3月",
+      "pronunciation": ["さん", "がつ"],
+      "english": "March"
+    },
+    "4": {
+      "kanji": ["四", "月"],
+      "numerical_kanji": "4月",
+      "pronunciation": ["し", "がつ"],
+      "english": "April"
+    },
+    "5": {
+      "kanji": ["五", "月"],
+      "numerical_kanji": "5月",
+      "pronunciation": ["ご", "がつ"],
+      "english": "May"
+    },
+    "6": {
+      "kanji": ["六", "月"],
+      "numerical_kanji": "6月",
+      "pronunciation": ["ろく", "がつ"],
+      "english": "June"
+    },
+    "7": {
+      "kanji": ["七", "月"],
+      "numerical_kanji": "7月",
+      "pronunciation": ["しち", "がつ"],
+      "english": "July"
+    },
+    "8": {
+      "kanji": ["八", "月"],
+      "numerical_kanji": "8月",
+      "pronunciation": ["はち", "がつ"],
+      "english": "August"
+    },
+    "9": {
+      "kanji": ["九", "月"],
+      "numerical_kanji": "9月",
+      "pronunciation": ["く", "がつ"],
+      "english": "September"
+    },
+    "10": {
+      "kanji": ["十", "月"],
+      "numerical_kanji": "10月",
+      "pronunciation": ["じゅう", "",  "がつ"],
+      "english": "October"
+    },
+    "11": {
+      "kanji": ["十一", "月"],
+      "numerical_kanji": "11月",
+      "pronunciation": ["じゅう", "いち", "がつ"],
+      "english": "November"
+    },
+    "12": {
+      "kanji": ["十二", "月"],
+      "numerical_kanji": "12月",
+      "pronunciation": ["じゅう", "に", "がつ"],
+      "english": "December"
+    }
+  }
+}
